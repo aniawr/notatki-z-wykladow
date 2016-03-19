@@ -38,3 +38,17 @@ https://www.wolframalpha.com/
 http://wbzyl.inf.ug.edu.pl/
 
 http://tao.inf.ug.edu.pl/
+
+
+Kod w C:
+
+```c
+#include <stdio.h>
+int main() {
+  printf("witaj świecie\n");
+  return 0;
+}
+```
+
+
+
