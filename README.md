@@ -12,6 +12,11 @@ HTML (jezyk znacznikow)
 
 20% tekstow jest generowane przez komputery
 
+
+drzewo programu
+
+znaczniki np. H1 
+
 #HTML
 
 http://software.hixie.ch/utilities/js/live-dom-viewer/
@@ -22,9 +27,13 @@ http://jsbin.com/?html,output
 
 http://sass-lang.com/
 
-drzewo programu
+http://jupyter.org/
 
-znaczniki np. H1 
+https://www.firebase.com/ (logowac sie mozna przez googla i mozna znalezc WBzyl ze zdjeciem gor)
+
+
+
+
 
 http://wbzyl.inf.ug.edu.pl/
 
