@@ -31,7 +31,7 @@ http://jupyter.org/
 
 https://www.firebase.com/ (logowac sie mozna przez googla i mozna znalezc WBzyl ze zdjeciem gor)
 
-
+https://www.wolframalpha.com/
 
 
 
