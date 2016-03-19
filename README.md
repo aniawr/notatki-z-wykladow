@@ -1,4 +1,4 @@
-## notatki-z-wykladow
+# notatki-z-wykladow
 
 ewolucja Internetu
 
@@ -12,12 +12,11 @@ HTML (jezyk znacznikow)
 
 20% tekstow jest generowane przez komputery
 
-
 drzewo programu
 
 znaczniki np. H1 
 
-#HTML
+##HTML
 
 http://software.hixie.ch/utilities/js/live-dom-viewer/
 
@@ -50,5 +49,24 @@ int main() {
 }
 ```
 
-http://wbzyl.github.io/
+http://wbzyl.github.io/ - strona p. W. Bzyl
 
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    { 
+      "type" : "Feature", 
+      "geometry" : { 
+        "type" : "Point", 
+        "coordinates" : [ 18.57327, 54.39591 ] 
+      }, 
+      "properties" : { 
+        "title" : "Instytut Informatyki, UG", 
+        "description" : "building", 
+        "marker-size" : "medium", 
+        "marker-symbol" : "building" 
+      } 
+    }
+  ]
+}
