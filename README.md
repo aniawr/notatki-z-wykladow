@@ -70,3 +70,36 @@ http://wbzyl.github.io/ - strona p. W. Bzyl
     }
   ]
 }
+
+
+# 16.04.2016 wykład
+
+http://polskikursblendera.pl/ - przykład strony w wordpresie - starać się nie produkować takiego badziewia ;-) to rodzaj gotowca
+tutoriale podstawowe, średnio trudne, zaawansowane...
+
+https://mat.ug.edu.pl/ - przykład strony napisanej
+
+zrobić jakąś fajną stronę, może być wizytówka o sobie, albo z przepisami, albo jak podróżować z dziećmi
+
+responsywna strona to taka która jest widoczna dobrze również na telefonie
+
+warto trzymać stronę w chmurze, może być w GitHabie
+
+problemy:
+komunikacja z tym co jest w chmurze
+iCloud - np konto na Aple i tam ktoś może mieć w folderach rzeczy
+
+terminal/github desktop - z linii poleceń
+
+gitlab.com podobny do GitHub, można mieć repozytoria prywatne albo je upubliczniać
+
+ssh czyli secure shell - generujemy dwa klucze: prywatny i publiczny
+tao.inf.ug.edu.pl
+http://wbzyl.inf.ug.edu.pl/sp/unix-commands
+
+dograć samemu te dwie rzeczy, które tych dwóch ludzi wymyśliło
+
+bezpiecne klucze i inne zabezpieczenia
+
+
+
