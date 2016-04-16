@@ -102,4 +102,22 @@ dograć samemu te dwie rzeczy, które tych dwóch ludzi wymyśliło
 bezpiecne klucze i inne zabezpieczenia
 
 
+menu rozwijane
+ul - lista nienumerowana
+
+li - 
+
+class
+
+potrzebujemy css
+kaskadowa arkusze stylów
+
+http://wbzyl.inf.ug.edu.pl/rails2/ti/css-basics
+
+http://wbzyl.inf.ug.edu.pl/rails2/ti
+
+
+
+
+
 
