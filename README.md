@@ -110,11 +110,25 @@ li -
 class
 
 potrzebujemy css
+
 kaskadowa arkusze stylów
 
 http://wbzyl.inf.ug.edu.pl/rails2/ti/css-basics
 
 http://wbzyl.inf.ug.edu.pl/rails2/ti
+
+można zainstalować przeglądarkę w wersji development i zobaczyć czy strona prawidłowo się wyświetla
+
+dołożyć ramki
+
+ramkologia:
+
+https://www.w3.org/TR/css3-border/
+
+https://css-tricks.com/almanac/properties/b/border-image/ - inne ramki, serwetka np.
+
+
+
 
 
 
