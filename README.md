@@ -160,4 +160,4 @@ http://ragnarson.com/
 
 https://textio.com/ - zbiór ofert pracy
 
-
+http://www.colourlovers.com/ - świetna strona z kolorami!
