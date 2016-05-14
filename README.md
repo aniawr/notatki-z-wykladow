@@ -1,6 +1,6 @@
 # notatki-z-wykladow
 
-![zdjęcie](zd1.png)
+![zdjęcie](img_internet.jpg)
 
 ewolucja Internetu
 
