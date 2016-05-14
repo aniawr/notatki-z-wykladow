@@ -144,11 +144,13 @@ ustawienia -> więcej narzędzi -> narzędzia dla programistów ->Console
 
 js - na konsoli - wpisujemy node
 
-operatory b=(a=2)
+operatory np. b=(a=2)
 
+funkcje np. function formatAmount()
 
+Scope - zasięg, zmienna w funkcji niewidoczna poza funkcją
 
-
+funkcje, które tworzą funkcje
 
 
 
