@@ -72,7 +72,7 @@ http://wbzyl.github.io/ - strona p. W. Bzyl
 }
 
 
-# 16.04.2016 wykład
+# 16 kwietnia 2016 wykład
 
 http://polskikursblendera.pl/ - przykład strony w wordpresie - starać się nie produkować takiego badziewia ;-) to rodzaj gotowca
 tutoriale podstawowe, średnio trudne, zaawansowane...
@@ -128,6 +128,23 @@ https://www.w3.org/TR/css3-border/
 https://css-tricks.com/almanac/properties/b/border-image/ - inne ramki, serwetka np.
 
 
+## 14 maja 2016r wykład
+
+Java Script - język programowania
+
+Jou Don't Know JS - książki z instrukcjami
+
+https://github.com/getify/You-Dont-Know-JS/blob/master/README.md
+
+https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/ch1.md
+
+about:blank pusta strona do ćwiczeń
+
+ustawienia -> więcej narzędzi -> narzędzia dla programistów ->Console
+
+js - na konsoli - wpisujemy node
+
+operatory b=(a=2)
 
 
 
