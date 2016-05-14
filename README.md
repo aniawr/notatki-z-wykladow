@@ -152,5 +152,10 @@ Scope - zasięg, zmienna w funkcji niewidoczna poza funkcją
 
 funkcje, które tworzą funkcje
 
+http://railsgirls.com/tricity - można było się zapisać na naukę programowania dla pań
+
+http://ragnarson.com/
+
+https://textio.com/ - zbiór ofert pracy
 
 
