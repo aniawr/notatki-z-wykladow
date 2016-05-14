@@ -1,5 +1,7 @@
 # notatki-z-wykladow
 
+![zdjęcie](zd1.png)
+
 ewolucja Internetu
 
 http://www.evolutionoftheweb.com/
