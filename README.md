@@ -54,25 +54,6 @@ int main() {
 http://wbzyl.github.io/ - strona p. W. Bzyl
 
 
-{
-  "type": "FeatureCollection",
-  "features": [
-    { 
-      "type" : "Feature", 
-      "geometry" : { 
-        "type" : "Point", 
-        "coordinates" : [ 18.57327, 54.39591 ] 
-      }, 
-      "properties" : { 
-        "title" : "Instytut Informatyki, UG", 
-        "description" : "building", 
-        "marker-size" : "medium", 
-        "marker-symbol" : "building" 
-      } 
-    }
-  ]
-}
-
 
 # 16 kwietnia 2016 wykład
 
@@ -113,7 +94,7 @@ class
 
 potrzebujemy css
 
-kaskadowa arkusze stylów
+kaskadowe arkusze stylów
 
 http://wbzyl.inf.ug.edu.pl/rails2/ti/css-basics
 
